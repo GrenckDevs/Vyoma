@@ -199,7 +199,7 @@ export default function BrainWaveSimulation() {
             >
               <div className="absolute inset-0 bg-blue-100/30 blur-[100px] rounded-full scale-150 opacity-0 group-hover:opacity-100 transition-opacity duration-1000"></div>
               <img 
-                src="/vyoma_back.png" 
+                src="/Vyoma/vyoma_back.png" 
                 alt="Vyoma Headband" 
                 className="relative z-10 w-[300px] md:w-[450px] drop-shadow-2xl transition-transform duration-1000 group-hover:scale-105"
               />
