@@ -1,12 +1,11 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
+  basePath: '/Vyoma',
+  trailingSlash: true,
   images: {
     unoptimized: true,
   },
-  // If you are deploying to https://<username>.github.io/<repository-name>/
-  basePath: '/Vyoma',
-  assetPrefix: '/Vyoma',
 };
 
 export default nextConfig;
