@@ -84,7 +84,7 @@ export default function Hero() {
       >
         <div ref={imageRef} className="hero-bg-image-wrapper relative flex items-center justify-center w-full h-full">
           <motion.img
-            src="/vyoma.png"
+            src="/Vyoma/vyoma.png"
             alt="Vyoma Background"
             className="hero-bg-image w-[80%] max-w-[100rem] object-contain"
           />

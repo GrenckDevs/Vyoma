@@ -23,7 +23,7 @@ export default function Footer() {
                 <span className="font-light">A</span> <span className="font-bold">GrenckDevs</span> <br />
                 <span className="font-light">Innovation</span>
               </p>
-              <img src="/gd_black.png" alt="GrenckDevs Logo" className="h-24 md:h-32 w-auto transition-transform group-hover:scale-105" />
+              <img src="/Vyoma/gd_black.png" alt="GrenckDevs Logo" className="h-24 md:h-32 w-auto transition-transform group-hover:scale-105" />
             </a>
           </div>
         </div>

@@ -14,7 +14,7 @@ export default function Experience() {
           className="relative flex justify-center lg:justify-start"
         >
           <img 
-            src="/mannequin.png" 
+            src="/Vyoma/mannequin.png" 
             alt="Vyoma Experience" 
             className="w-full lg:w-[160%] max-w-[1100px] h-auto object-contain relative z-10 lg:-translate-x-20"
           />
