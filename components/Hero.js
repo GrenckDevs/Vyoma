@@ -118,7 +118,7 @@ export default function Hero() {
           className="max-w-xl"
         >
           <p className="text-base md:text-lg text-[#1A1A1A] font-medium leading-relaxed">
-            A GrenckDves innovation restoring communication and independence through the power of pure thought.
+            A GrenckDevs innovation restoring communication and independence through the power of pure thought.
           </p>
         </motion.div>
 
