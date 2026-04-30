@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Vyoma - Unlocking Your World
+
+Vyoma is a premium product by GrenckDves designed to restore communication and independence through pure thought. This landing page is built with Next.js, Three.js, GSAP, and Framer Motion to provide a "Lusion-style" immersive experience.
+
+## Features
+
+- **Hero Section**: Interactive WebGL particle system that reacts to mouse movement.
+- **Experience Section**: Highlights the "wear it and forget it" comfort of the EEG headset.
+- **How It Works**: A simplified explanation of the thought-to-action pipeline (Think, Translate, Act).
+- **Interface**: A glassmorphism mockup showing the product in action with interactive effects.
+- **Premium Aesthetics**: Minimalist off-white palette with soft silver and sky blue accents.
+- **Smooth Interaction**: Lenis smooth scrolling for a buttery-smooth feel.
+
+## Tech Stack
+
+- **Framework**: Next.js (App Router)
+- **Styling**: Tailwind CSS
+- **Animations**: GSAP, Framer Motion
+- **3D/WebGL**: Three.js, @react-three/fiber, @react-three/drei
+- **Smooth Scroll**: Lenis
 
 ## Getting Started
 
-First, run the development server:
+First, install the dependencies:
+
+```bash
+npm install
+```
+
+Then, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Development
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+All components are located in the `components/` directory. Global styles and the main page are in the `app/` directory.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+© 2026 GrenckDves. Dedicated to bridging the gap between human potential and digital reality.
+# Vyoma
